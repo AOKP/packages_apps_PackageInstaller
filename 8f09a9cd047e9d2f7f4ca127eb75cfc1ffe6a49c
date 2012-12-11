@@ -1,0 +1,10 @@
+Change-Id: I8f09a9cd047e9d2f7f4ca127eb75cfc1ffe6a49c
+Code-Review+2: Roman Birg <romanbirg@gmail.com>
+Verified+1: Roman Birg <romanbirg@gmail.com>
+Code-Review+1: Khas Mek <boushh@gmail.com>
+Verified+1: Khas Mek <boushh@gmail.com>
+Submitted-by: Roman Birg <romanbirg@gmail.com>
+Submitted-at: Tue, 11 Dec 2012 00:41:37 +0000
+Reviewed-on: http://gerrit.sudoservers.com/4540
+Project: AOKP/packages_apps_PackageInstaller
+Branch: refs/heads/jb-mr1
